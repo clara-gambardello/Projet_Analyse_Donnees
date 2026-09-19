@@ -1,0 +1,4 @@
+"0",""
+"0","hc_B_CR_SD<-hclust(d_BSD_distanceCR, method=""ward.D2"") # Avec les données centrées réduites"
+"0",""
+"0","plot(hc_B_CR_SD$height[94:50],type=""b"", ylab=""hauteur sur l'arbre"", main=""Graphique de l’inertie intra-classes"")"

@@ -1,0 +1,2 @@
+"0",""
+"0","plot(hc_B_CR_SD, labels=d_sDijon$commune, main=""Clustering des communes avec le critère de Ward (centrée-réduit)"", xlab="""", cex=0.5)"

@@ -1,0 +1,3 @@
+"0",""
+"0","decoup_groupe<-cutree(hc_FC_CR_SD,k=3)"
+"0","aggregate(d_FC_sansBes,list(decoup_groupe),mean) # centre de gravite"

@@ -1,0 +1,6 @@
+"0",""
+"0","classes_age_B_FC<-donnee_B_FC %>% select(pop_0_14, pop_15_29, pop_75p)"
+"0","indices_max_age_B_FC<-apply(classes_age_B_FC, 1, which.max)"
+"0",""
+"0","donnee_B_FC<-donnee_B_FC %>%"
+"0","  mutate(classe_age_dominante=factor(colnames(classes_age_B_FC)[indices_max_age_B_FC]))"
