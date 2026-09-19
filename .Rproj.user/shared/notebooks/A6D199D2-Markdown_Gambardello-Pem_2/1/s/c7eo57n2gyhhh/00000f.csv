@@ -1,5 +1,0 @@
-"0","donnee <- rp2012"
-"0",""
-"0","donnee_B_FC <- donnee %>% "
-"0","  filter(region==""Bourgogne""| region==""Franche-Comté"")"
-"0",""
